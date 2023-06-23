@@ -1,0 +1,369 @@
+{"index": 0, "question": "Yesterday was April 30, 2021. What is the date today in MM/DD/YYYY?", "answer": "05/01/2021"}
+{"index": 1, "question": "Yesterday was April 30, 2021. What is the date tomorrow in MM/DD/YYYY?", "answer": "05/02/2021"}
+{"index": 2, "question": "Yesterday was April 30, 2021. What is the date yesterday in MM/DD/YYYY?", "answer": "04/30/2021"}
+{"index": 3, "question": "Yesterday was April 30, 2021. What is the date 10 days ago in MM/DD/YYYY?", "answer": "04/21/2021"}
+{"index": 4, "question": "Yesterday was April 30, 2021. What is the date a month ago in MM/DD/YYYY?", "answer": "04/01/2021"}
+{"index": 5, "question": "Yesterday was April 30, 2021. What is the date one year ago from today in MM/DD/YYYY?", "answer": "05/01/2020"}
+{"index": 6, "question": "Yesterday was April 30, 2021. What is the date one week ago from today in MM/DD/YYYY?", "answer": "04/24/2021"}
+{"index": 7, "question": "Yesterday was April 30, 2021. What is the date one week from today in MM/DD/YYYY?", "answer": "05/08/2021"}
+{"index": 8, "question": "Yesterday was April 30, 2021. What is the date 24 hours later in MM/DD/YYYY?", "answer": "05/02/2021"}
+{"index": 9, "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date today in MM/DD/YYYY?", "answer": "05/30/2021"}
+{"index": 10, "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date tomorrow in MM/DD/YYYY?", "answer": "05/31/2021"}
+{"index": 11, "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date yesterday in MM/DD/YYYY?", "answer": "05/29/2021"}
+{"index": 12, "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 10 days ago in MM/DD/YYYY?", "answer": "05/20/2021"}
+{"index": 13, "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date a month ago in MM/DD/YYYY?", "answer": "04/30/2021"}
+{"index": 14, "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one year ago from today in MM/DD/YYYY?", "answer": "05/30/2020"}
+{"index": 15, "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week ago from today in MM/DD/YYYY?", "answer": "05/23/2021"}
+{"index": 16, "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date one week from today in MM/DD/YYYY?", "answer": "06/06/2021"}
+{"index": 17, "question": "The deadline is Jun 1, 2021, which is 2 days away from now. What is the date 24 hours later in MM/DD/YYYY?", "answer": "05/31/2021"}
+{"index": 18, "question": "Tomorrow is 11/12/2019. What is the date today in MM/DD/YYYY?", "answer": "11/11/2019"}
+{"index": 19, "question": "Tomorrow is 11/12/2019. What is the date tomorrow in MM/DD/YYYY?", "answer": "11/12/2019"}
+{"index": 20, "question": "Tomorrow is 11/12/2019. What is the date yesterday in MM/DD/YYYY?", "answer": "11/10/2019"}
+{"index": 21, "question": "Tomorrow is 11/12/2019. What is the date 10 days ago in MM/DD/YYYY?", "answer": "11/01/2019"}
+{"index": 22, "question": "Tomorrow is 11/12/2019. What is the date a month ago in MM/DD/YYYY?", "answer": "10/11/2019"}
+{"index": 23, "question": "Tomorrow is 11/12/2019. What is the date one year ago from today in MM/DD/YYYY?", "answer": "11/11/2018"}
+{"index": 24, "question": "Tomorrow is 11/12/2019. What is the date one week ago from today in MM/DD/YYYY?", "answer": "11/04/2019"}
+{"index": 25, "question": "Tomorrow is 11/12/2019. What is the date one week from today in MM/DD/YYYY?", "answer": "11/18/2019"}
+{"index": 26, "question": "Tomorrow is 11/12/2019. What is the date 24 hours later in MM/DD/YYYY?", "answer": "11/12/2019"}
+{"index": 27, "question": "Today, 8/3/1997, is a day that we will never forget. What is the date today in MM/DD/YYYY?", "answer": "08/03/1997"}
+{"index": 28, "question": "Today, 8/3/1997, is a day that we will never forget. What is the date tomorrow in MM/DD/YYYY?", "answer": "08/04/1997"}
+{"index": 29, "question": "Today, 8/3/1997, is a day that we will never forget. What is the date yesterday in MM/DD/YYYY?", "answer": "08/02/1997"}
+{"index": 30, "question": "Today, 8/3/1997, is a day that we will never forget. What is the date 10 days ago in MM/DD/YYYY?", "answer": "07/24/1997"}
+{"index": 31, "question": "Today, 8/3/1997, is a day that we will never forget. What is the date a month ago in MM/DD/YYYY?", "answer": "07/03/1997"}
+{"index": 32, "question": "Today, 8/3/1997, is a day that we will never forget. What is the date one year ago from today in MM/DD/YYYY?", "answer": "08/03/1996"}
+{"index": 33, "question": "Today, 8/3/1997, is a day that we will never forget. What is the date one week ago from today in MM/DD/YYYY?", "answer": "07/27/1997"}
+{"index": 34, "question": "Today, 8/3/1997, is a day that we will never forget. What is the date one week from today in MM/DD/YYYY?", "answer": "08/10/1997"}
+{"index": 35, "question": "Today, 8/3/1997, is a day that we will never forget. What is the date 24 hours later in MM/DD/YYYY?", "answer": "08/04/1997"}
+{"index": 36, "question": "Today is Sep 9, 1909. What is the date today in MM/DD/YYYY?", "answer": "09/09/1909"}
+{"index": 37, "question": "Today is Sep 9, 1909. What is the date tomorrow in MM/DD/YYYY?", "answer": "09/10/1909"}
+{"index": 38, "question": "Today is Sep 9, 1909. What is the date yesterday in MM/DD/YYYY?", "answer": "09/08/1909"}
+{"index": 39, "question": "Today is Sep 9, 1909. What is the date 10 days ago in MM/DD/YYYY?", "answer": "08/30/1909"}
+{"index": 40, "question": "Today is Sep 9, 1909. What is the date a month ago in MM/DD/YYYY?", "answer": "08/09/1909"}
+{"index": 41, "question": "Today is Sep 9, 1909. What is the date one year ago from today in MM/DD/YYYY?", "answer": "09/09/1908"}
+{"index": 42, "question": "Today is Sep 9, 1909. What is the date one week ago from today in MM/DD/YYYY?", "answer": "09/02/1909"}
+{"index": 43, "question": "Today is Sep 9, 1909. What is the date one week from today in MM/DD/YYYY?", "answer": "09/16/1909"}
+{"index": 44, "question": "Today is Sep 9, 1909. What is the date 24 hours later in MM/DD/YYYY?", "answer": "09/10/1909"}
+{"index": 45, "question": "It is 4/19/1969 today. What is the date today in MM/DD/YYYY?", "answer": "04/19/1969"}
+{"index": 46, "question": "It is 4/19/1969 today. What is the date tomorrow in MM/DD/YYYY?", "answer": "04/20/1969"}
+{"index": 47, "question": "It is 4/19/1969 today. What is the date yesterday in MM/DD/YYYY?", "answer": "04/18/1969"}
+{"index": 48, "question": "It is 4/19/1969 today. What is the date 10 days ago in MM/DD/YYYY?", "answer": "04/09/1969"}
+{"index": 49, "question": "It is 4/19/1969 today. What is the date a month ago in MM/DD/YYYY?", "answer": "03/19/1969"}
+{"index": 50, "question": "It is 4/19/1969 today. What is the date one year ago from today in MM/DD/YYYY?", "answer": "04/19/1968"}
+{"index": 51, "question": "It is 4/19/1969 today. What is the date one week ago from today in MM/DD/YYYY?", "answer": "04/12/1969"}
+{"index": 52, "question": "It is 4/19/1969 today. What is the date one week from today in MM/DD/YYYY?", "answer": "04/26/1969"}
+{"index": 53, "question": "It is 4/19/1969 today. What is the date 24 hours later in MM/DD/YYYY?", "answer": "04/20/1969"}
+{"index": 54, "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date today in MM/DD/YYYY?", "answer": "02/29/2016"}
+{"index": 55, "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY?", "answer": "03/01/2016"}
+{"index": 56, "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?", "answer": "02/28/2016"}
+{"index": 57, "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY?", "answer": "02/19/2016"}
+{"index": 58, "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY?", "answer": "01/29/2016"}
+{"index": 59, "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one year ago from today in MM/DD/YYYY?", "answer": "02/28/2015"}
+{"index": 60, "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY?", "answer": "02/22/2016"}
+{"index": 61, "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY?", "answer": "03/07/2016"}
+{"index": 62, "question": "Jane was born on the last day of Feburary in 2000. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?", "answer": "03/01/2016"}
+{"index": 63, "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date today in MM/DD/YYYY?", "answer": "02/28/2017"}
+{"index": 64, "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date tomorrow in MM/DD/YYYY?", "answer": "03/01/2017"}
+{"index": 65, "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date yesterday in MM/DD/YYYY?", "answer": "02/27/2017"}
+{"index": 66, "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date 10 days ago in MM/DD/YYYY?", "answer": "02/18/2017"}
+{"index": 67, "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date a month ago in MM/DD/YYYY?", "answer": "01/28/2017"}
+{"index": 68, "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one year ago from today in MM/DD/YYYY?", "answer": "02/28/2016"}
+{"index": 69, "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week ago from today in MM/DD/YYYY?", "answer": "02/21/2017"}
+{"index": 70, "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date one week from today in MM/DD/YYYY?", "answer": "03/07/2017"}
+{"index": 71, "question": "Jane was born on the last day of Feburary in 2001. Today is her 16-year-old birthday. What is the date 24 hours later in MM/DD/YYYY?", "answer": "03/01/2017"}
+{"index": 72, "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date today in MM/DD/YYYY?", "answer": "01/02/2008"}
+{"index": 73, "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date tomorrow in MM/DD/YYYY?", "answer": "01/03/2008"}
+{"index": 74, "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date yesterday in MM/DD/YYYY?", "answer": "01/01/2008"}
+{"index": 75, "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 10 days ago in MM/DD/YYYY?", "answer": "12/23/2007"}
+{"index": 76, "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date a month ago in MM/DD/YYYY?", "answer": "12/02/2007"}
+{"index": 77, "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one year ago from today in MM/DD/YYYY?", "answer": "01/02/2007"}
+{"index": 78, "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week ago from today in MM/DD/YYYY?", "answer": "12/26/2007"}
+{"index": 79, "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date one week from today in MM/DD/YYYY?", "answer": "01/09/2008"}
+{"index": 80, "question": "Jane and John married on Jan 2, 1958. Today is their golden wedding anniversary. What is the date 24 hours later in MM/DD/YYYY?", "answer": "01/03/2008"}
+{"index": 81, "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date today in MM/DD/YYYY?", "answer": "12/01/2019"}
+{"index": 82, "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date tomorrow in MM/DD/YYYY?", "answer": "12/02/2019"}
+{"index": 83, "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date yesterday in MM/DD/YYYY?", "answer": "11/30/2019"}
+{"index": 84, "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 10 days ago in MM/DD/YYYY?", "answer": "11/21/2019"}
+{"index": 85, "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date a month ago in MM/DD/YYYY?", "answer": "11/01/2019"}
+{"index": 86, "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one year ago from today in MM/DD/YYYY?", "answer": "12/01/2018"}
+{"index": 87, "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week ago from today in MM/DD/YYYY?", "answer": "11/24/2019"}
+{"index": 88, "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date one week from today in MM/DD/YYYY?", "answer": "12/08/2019"}
+{"index": 89, "question": "Jane got her job in 2016. Today is her 3-year work anniversary. She still remember that on Dec 2, her second day at work, she spilled coffee on her laptop. What is the date 24 hours later in MM/DD/YYYY?", "answer": "12/02/2019"}
+{"index": 90, "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date today in MM/DD/YYYY?", "answer": "09/12/2020"}
+{"index": 91, "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date tomorrow in MM/DD/YYYY?", "answer": "09/13/2020"}
+{"index": 92, "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date yesterday in MM/DD/YYYY?", "answer": "09/11/2020"}
+{"index": 93, "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 10 days ago in MM/DD/YYYY?", "answer": "09/02/2020"}
+{"index": 94, "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date a month ago in MM/DD/YYYY?", "answer": "08/12/2020"}
+{"index": 95, "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one year ago from today in MM/DD/YYYY?", "answer": "09/12/2019"}
+{"index": 96, "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week ago from today in MM/DD/YYYY?", "answer": "09/05/2020"}
+{"index": 97, "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date one week from today in MM/DD/YYYY?", "answer": "09/19/2020"}
+{"index": 98, "question": "Jane quited her job on Mar 20, 2020. 176 days have passed since then. What is the date 24 hours later in MM/DD/YYYY?", "answer": "09/13/2020"}
+{"index": 99, "question": "2015 is coming in 36 hours. What is the date today in MM/DD/YYYY?", "answer": "12/29/2014"}
+{"index": 100, "question": "2015 is coming in 36 hours. What is the date tomorrow in MM/DD/YYYY?", "answer": "12/30/2014"}
+{"index": 101, "question": "2015 is coming in 36 hours. What is the date yesterday in MM/DD/YYYY?", "answer": "12/28/2014"}
+{"index": 102, "question": "2015 is coming in 36 hours. What is the date 10 days ago in MM/DD/YYYY?", "answer": "12/19/2014"}
+{"index": 103, "question": "2015 is coming in 36 hours. What is the date a month ago in MM/DD/YYYY?", "answer": "11/29/2014"}
+{"index": 104, "question": "2015 is coming in 36 hours. What is the date one year ago from today in MM/DD/YYYY?", "answer": "12/29/2013"}
+{"index": 105, "question": "2015 is coming in 36 hours. What is the date one week ago from today in MM/DD/YYYY?", "answer": "12/22/2014"}
+{"index": 106, "question": "2015 is coming in 36 hours. What is the date one week from today in MM/DD/YYYY?", "answer": "01/05/2015"}
+{"index": 107, "question": "2015 is coming in 36 hours. What is the date 24 hours later in MM/DD/YYYY?", "answer": "12/30/2014"}
+{"index": 108, "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date today in MM/DD/YYYY?", "answer": "01/02/1987"}
+{"index": 109, "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date tomorrow in MM/DD/YYYY?", "answer": "01/03/1987"}
+{"index": 110, "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date yesterday in MM/DD/YYYY?", "answer": "01/01/1987"}
+{"index": 111, "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date 10 days ago in MM/DD/YYYY?", "answer": "12/23/1986"}
+{"index": 112, "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date a month ago in MM/DD/YYYY?", "answer": "12/02/1986"}
+{"index": 113, "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one year ago from today in MM/DD/YYYY?", "answer": "01/02/1986"}
+{"index": 114, "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one week ago from today in MM/DD/YYYY?", "answer": "12/26/1986"}
+{"index": 115, "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date one week from today in MM/DD/YYYY?", "answer": "01/09/1987"}
+{"index": 116, "question": "In the UK, people usually put the day before the month when formatting the date. Therefore, today is 02/01/1987 to them. What is the date 24 hours later in MM/DD/YYYY?", "answer": "01/03/1987"}
+{"index": 117, "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date today in MM/DD/YYYY?", "answer": "07/28/2002"}
+{"index": 118, "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date tomorrow in MM/DD/YYYY?", "answer": "07/29/2002"}
+{"index": 119, "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date yesterday in MM/DD/YYYY?", "answer": "07/27/2002"}
+{"index": 120, "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date 10 days ago in MM/DD/YYYY?", "answer": "07/18/2002"}
+{"index": 121, "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date a month ago in MM/DD/YYYY?", "answer": "06/28/2002"}
+{"index": 122, "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one year ago from today in MM/DD/YYYY?", "answer": "07/28/2001"}
+{"index": 123, "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one week ago from today in MM/DD/YYYY?", "answer": "07/21/2002"}
+{"index": 124, "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date one week from today in MM/DD/YYYY?", "answer": "08/04/2002"}
+{"index": 125, "question": "Jane booked a flight for tomorrow, Jul 29, 2002. What is the date 24 hours later in MM/DD/YYYY?", "answer": "07/29/2002"}
+{"index": 126, "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date today in MM/DD/YYYY?", "answer": "02/16/2010"}
+{"index": 127, "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date tomorrow in MM/DD/YYYY?", "answer": "02/17/2010"}
+{"index": 128, "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date yesterday in MM/DD/YYYY?", "answer": "02/15/2010"}
+{"index": 129, "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date 10 days ago in MM/DD/YYYY?", "answer": "02/06/2010"}
+{"index": 130, "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date a month ago in MM/DD/YYYY?", "answer": "01/16/2010"}
+{"index": 131, "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one year ago from today in MM/DD/YYYY?", "answer": "02/16/2009"}
+{"index": 132, "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one week ago from today in MM/DD/YYYY?", "answer": "02/09/2010"}
+{"index": 133, "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date one week from today in MM/DD/YYYY?", "answer": "02/23/2010"}
+{"index": 134, "question": "Jane visits the bookstore on the 16th of each month starting from the October of 2009. It is her 5th visit to the bookstore today. What is the date 24 hours later in MM/DD/YYYY?", "answer": "02/17/2010"}
+{"index": 135, "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date today in MM/DD/YYYY?", "answer": "03/12/2002"}
+{"index": 136, "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date tomorrow in MM/DD/YYYY?", "answer": "03/13/2002"}
+{"index": 137, "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date yesterday in MM/DD/YYYY?", "answer": "03/11/2002"}
+{"index": 138, "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 10 days ago in MM/DD/YYYY?", "answer": "03/02/2002"}
+{"index": 139, "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date a month ago in MM/DD/YYYY?", "answer": "02/12/2002"}
+{"index": 140, "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one year ago from today in MM/DD/YYYY?", "answer": "03/12/2001"}
+{"index": 141, "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one week ago from today in MM/DD/YYYY?", "answer": "03/05/2002"}
+{"index": 142, "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date one week from today in MM/DD/YYYY?", "answer": "03/19/2002"}
+{"index": 143, "question": "Jane thought today is 3/11/2002, but today is in fact Mar 12, which is 1 day later. What is the date 24 hours later in MM/DD/YYYY?", "answer": "03/13/2002"}
+{"index": 144, "question": "Today is the first day of 2007. What is the date today in MM/DD/YYYY?", "answer": "01/01/2007"}
+{"index": 145, "question": "Today is the first day of 2007. What is the date tomorrow in MM/DD/YYYY?", "answer": "01/02/2007"}
+{"index": 146, "question": "Today is the first day of 2007. What is the date yesterday in MM/DD/YYYY?", "answer": "12/31/2006"}
+{"index": 147, "question": "Today is the first day of 2007. What is the date 10 days ago in MM/DD/YYYY?", "answer": "12/22/2006"}
+{"index": 148, "question": "Today is the first day of 2007. What is the date a month ago in MM/DD/YYYY?", "answer": "12/01/2006"}
+{"index": 149, "question": "Today is the first day of 2007. What is the date one year ago from today in MM/DD/YYYY?", "answer": "01/01/2006"}
+{"index": 150, "question": "Today is the first day of 2007. What is the date one week ago from today in MM/DD/YYYY?", "answer": "12/25/2006"}
+{"index": 151, "question": "Today is the first day of 2007. What is the date one week from today in MM/DD/YYYY?", "answer": "01/08/2007"}
+{"index": 152, "question": "Today is the first day of 2007. What is the date 24 hours later in MM/DD/YYYY?", "answer": "01/02/2007"}
+{"index": 153, "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date today in MM/DD/YYYY?", "answer": "04/10/1985"}
+{"index": 154, "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date tomorrow in MM/DD/YYYY?", "answer": "04/11/1985"}
+{"index": 155, "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date yesterday in MM/DD/YYYY?", "answer": "04/09/1985"}
+{"index": 156, "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date 10 days ago in MM/DD/YYYY?", "answer": "03/31/1985"}
+{"index": 157, "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date a month ago in MM/DD/YYYY?", "answer": "03/10/1985"}
+{"index": 158, "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one year ago from today in MM/DD/YYYY?", "answer": "04/10/1984"}
+{"index": 159, "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one week ago from today in MM/DD/YYYY?", "answer": "04/03/1985"}
+{"index": 160, "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date one week from today in MM/DD/YYYY?", "answer": "04/17/1985"}
+{"index": 161, "question": "Today is Apr 10, 1985. Jane's appointment will be 3 days later. What is the date 24 hours later in MM/DD/YYYY?", "answer": "04/11/1985"}
+{"index": 162, "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date today in MM/DD/YYYY?", "answer": "03/05/1973"}
+{"index": 163, "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date tomorrow in MM/DD/YYYY?", "answer": "03/06/1973"}
+{"index": 164, "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date yesterday in MM/DD/YYYY?", "answer": "03/04/1973"}
+{"index": 165, "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date 10 days ago in MM/DD/YYYY?", "answer": "02/23/1973"}
+{"index": 166, "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date a month ago in MM/DD/YYYY?", "answer": "02/05/1973"}
+{"index": 167, "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date one year ago from today in MM/DD/YYYY?", "answer": "03/05/1972"}
+{"index": 168, "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date one week ago from today in MM/DD/YYYY?", "answer": "02/26/1973"}
+{"index": 169, "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date one week from today in MM/DD/YYYY?", "answer": "03/12/1973"}
+{"index": 170, "question": "Today is 3/5, and it is Jane's second time in the year 1973 to see a meteor shower. What is the date 24 hours later in MM/DD/YYYY?", "answer": "03/06/1973"}
+{"index": 171, "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date today in MM/DD/YYYY?", "answer": "01/22/2011"}
+{"index": 172, "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date tomorrow in MM/DD/YYYY?", "answer": "01/23/2011"}
+{"index": 173, "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date yesterday in MM/DD/YYYY?", "answer": "01/21/2011"}
+{"index": 174, "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date 10 days ago in MM/DD/YYYY?", "answer": "01/12/2011"}
+{"index": 175, "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date a month ago in MM/DD/YYYY?", "answer": "12/22/2010"}
+{"index": 176, "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one year ago from today in MM/DD/YYYY?", "answer": "01/22/2010"}
+{"index": 177, "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one week ago from today in MM/DD/YYYY?", "answer": "01/15/2011"}
+{"index": 178, "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date one week from today in MM/DD/YYYY?", "answer": "01/29/2011"}
+{"index": 179, "question": "Yesterday, Jan 21, 2011, Jane ate 2 pizzas and 5 wings. What is the date 24 hours later in MM/DD/YYYY?", "answer": "01/23/2011"}
+{"index": 180, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date today in MM/DD/YYYY?", "answer": "06/18/2019"}
+{"index": 181, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date tomorrow in MM/DD/YYYY?", "answer": "06/19/2019"}
+{"index": 182, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date yesterday in MM/DD/YYYY?", "answer": "06/17/2019"}
+{"index": 183, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date 10 days ago in MM/DD/YYYY?", "answer": "06/08/2019"}
+{"index": 184, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date a month ago in MM/DD/YYYY?", "answer": "05/18/2019"}
+{"index": 185, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date one year ago from today in MM/DD/YYYY?", "answer": "06/18/2018"}
+{"index": 186, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date one week ago from today in MM/DD/YYYY?", "answer": "06/11/2019"}
+{"index": 187, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date one week from today in MM/DD/YYYY?", "answer": "06/25/2019"}
+{"index": 188, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. Jane is correct. What is the date 24 hours later in MM/DD/YYYY?", "answer": "06/19/2019"}
+{"index": 189, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date today in MM/DD/YYYY?", "answer": "06/19/2019"}
+{"index": 190, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date tomorrow in MM/DD/YYYY?", "answer": "06/20/2019"}
+{"index": 191, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date yesterday in MM/DD/YYYY?", "answer": "06/18/2019"}
+{"index": 192, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date 10 days ago in MM/DD/YYYY?", "answer": "06/09/2019"}
+{"index": 193, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date a month ago in MM/DD/YYYY?", "answer": "05/19/2019"}
+{"index": 194, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one year ago from today in MM/DD/YYYY?", "answer": "06/19/2018"}
+{"index": 195, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one week ago from today in MM/DD/YYYY?", "answer": "06/12/2019"}
+{"index": 196, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date one week from today in MM/DD/YYYY?", "answer": "06/26/2019"}
+{"index": 197, "question": "Jane thinks today is 6/18/2019, but John thinks today is 6/19/2019. John is correct. What is the date 24 hours later in MM/DD/YYYY?", "answer": "06/20/2019"}
+{"index": 198, "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date today in MM/DD/YYYY?", "answer": "05/06/2002"}
+{"index": 199, "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date tomorrow in MM/DD/YYYY?", "answer": "05/07/2002"}
+{"index": 200, "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date yesterday in MM/DD/YYYY?", "answer": "05/05/2002"}
+{"index": 201, "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date 10 days ago in MM/DD/YYYY?", "answer": "04/26/2002"}
+{"index": 202, "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date a month ago in MM/DD/YYYY?", "answer": "04/06/2002"}
+{"index": 203, "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date one year ago from today in MM/DD/YYYY?", "answer": "05/06/2001"}
+{"index": 204, "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date one week ago from today in MM/DD/YYYY?", "answer": "04/29/2002"}
+{"index": 205, "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date one week from today in MM/DD/YYYY?", "answer": "05/13/2002"}
+{"index": 206, "question": "May 6, 1992 is like yesterday to Jane, but that is actually ten years ago. What is the date 24 hours later in MM/DD/YYYY?", "answer": "05/07/2002"}
+{"index": 207, "question": "Today is Christmas Eve of 1937. What is the date today in MM/DD/YYYY?", "answer": "12/24/1937"}
+{"index": 208, "question": "Today is Christmas Eve of 1937. What is the date tomorrow in MM/DD/YYYY?", "answer": "12/25/1937"}
+{"index": 209, "question": "Today is Christmas Eve of 1937. What is the date yesterday in MM/DD/YYYY?", "answer": "12/23/1937"}
+{"index": 210, "question": "Today is Christmas Eve of 1937. What is the date 10 days ago in MM/DD/YYYY?", "answer": "12/14/1937"}
+{"index": 211, "question": "Today is Christmas Eve of 1937. What is the date a month ago in MM/DD/YYYY?", "answer": "11/24/1937"}
+{"index": 212, "question": "Today is Christmas Eve of 1937. What is the date one year ago from today in MM/DD/YYYY?", "answer": "12/24/1936"}
+{"index": 213, "question": "Today is Christmas Eve of 1937. What is the date one week ago from today in MM/DD/YYYY?", "answer": "12/17/1937"}
+{"index": 214, "question": "Today is Christmas Eve of 1937. What is the date one week from today in MM/DD/YYYY?", "answer": "12/31/1937"}
+{"index": 215, "question": "Today is Christmas Eve of 1937. What is the date 24 hours later in MM/DD/YYYY?", "answer": "12/25/1937"}
+{"index": 216, "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date today in MM/DD/YYYY?", "answer": "02/02/2020"}
+{"index": 217, "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date tomorrow in MM/DD/YYYY?", "answer": "02/03/2020"}
+{"index": 218, "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date yesterday in MM/DD/YYYY?", "answer": "02/01/2020"}
+{"index": 219, "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date 10 days ago in MM/DD/YYYY?", "answer": "01/23/2020"}
+{"index": 220, "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date a month ago in MM/DD/YYYY?", "answer": "01/02/2020"}
+{"index": 221, "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date one year ago from today in MM/DD/YYYY?", "answer": "02/02/2019"}
+{"index": 222, "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date one week ago from today in MM/DD/YYYY?", "answer": "01/26/2020"}
+{"index": 223, "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date one week from today in MM/DD/YYYY?", "answer": "02/09/2020"}
+{"index": 224, "question": "Today is the palindrome day of 2020, because the MMDDYYYY format of the date is the same backwards as forwards. What is the date 24 hours later in MM/DD/YYYY?", "answer": "02/03/2020"}
+{"index": 225, "question": "This is the last day of 1899. What is the date today in MM/DD/YYYY?", "answer": "12/31/1899"}
+{"index": 226, "question": "This is the last day of 1899. What is the date tomorrow in MM/DD/YYYY?", "answer": "01/01/1900"}
+{"index": 227, "question": "This is the last day of 1899. What is the date yesterday in MM/DD/YYYY?", "answer": "12/30/1899"}
+{"index": 228, "question": "This is the last day of 1899. What is the date 10 days ago in MM/DD/YYYY?", "answer": "12/21/1899"}
+{"index": 229, "question": "This is the last day of 1899. What is the date a month ago in MM/DD/YYYY?", "answer": "11/30/1899"}
+{"index": 230, "question": "This is the last day of 1899. What is the date one year ago from today in MM/DD/YYYY?", "answer": "12/31/1898"}
+{"index": 231, "question": "This is the last day of 1899. What is the date one week ago from today in MM/DD/YYYY?", "answer": "12/24/1899"}
+{"index": 232, "question": "This is the last day of 1899. What is the date one week from today in MM/DD/YYYY?", "answer": "01/07/1900"}
+{"index": 233, "question": "This is the last day of 1899. What is the date 24 hours later in MM/DD/YYYY?", "answer": "01/01/1900"}
+{"index": 234, "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date today in MM/DD/YYYY?", "answer": "06/02/1943"}
+{"index": 235, "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date tomorrow in MM/DD/YYYY?", "answer": "06/03/1943"}
+{"index": 236, "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date yesterday in MM/DD/YYYY?", "answer": "06/01/1943"}
+{"index": 237, "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 10 days ago in MM/DD/YYYY?", "answer": "05/23/1943"}
+{"index": 238, "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date a month ago in MM/DD/YYYY?", "answer": "05/02/1943"}
+{"index": 239, "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one year ago from today in MM/DD/YYYY?", "answer": "06/02/1942"}
+{"index": 240, "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one week ago from today in MM/DD/YYYY?", "answer": "05/26/1943"}
+{"index": 241, "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date one week from today in MM/DD/YYYY?", "answer": "06/09/1943"}
+{"index": 242, "question": "The concert was scheduled to be on 06/01/1943, but was delayed by one day to today. What is the date 24 hours later in MM/DD/YYYY?", "answer": "06/03/1943"}
+{"index": 243, "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date today in MM/DD/YYYY?", "answer": "07/08/1972"}
+{"index": 244, "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date tomorrow in MM/DD/YYYY?", "answer": "07/09/1972"}
+{"index": 245, "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date yesterday in MM/DD/YYYY?", "answer": "07/07/1972"}
+{"index": 246, "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date 10 days ago in MM/DD/YYYY?", "answer": "06/28/1972"}
+{"index": 247, "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date a month ago in MM/DD/YYYY?", "answer": "06/08/1972"}
+{"index": 248, "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one year ago from today in MM/DD/YYYY?", "answer": "07/08/1971"}
+{"index": 249, "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one week ago from today in MM/DD/YYYY?", "answer": "07/01/1972"}
+{"index": 250, "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date one week from today in MM/DD/YYYY?", "answer": "07/15/1972"}
+{"index": 251, "question": "Jane scheduled 3 apointments with 5 poeple for tomorrow (Tue, 7/9/1972). What is the date 24 hours later in MM/DD/YYYY?", "answer": "07/09/1972"}
+{"index": 252, "question": "The current local time is 3:02 pm of 5/4/2004. What is the date today in MM/DD/YYYY?", "answer": "05/04/2004"}
+{"index": 253, "question": "The current local time is 3:02 pm of 5/4/2004. What is the date tomorrow in MM/DD/YYYY?", "answer": "05/05/2004"}
+{"index": 254, "question": "The current local time is 3:02 pm of 5/4/2004. What is the date yesterday in MM/DD/YYYY?", "answer": "05/03/2004"}
+{"index": 255, "question": "The current local time is 3:02 pm of 5/4/2004. What is the date 10 days ago in MM/DD/YYYY?", "answer": "04/24/2004"}
+{"index": 256, "question": "The current local time is 3:02 pm of 5/4/2004. What is the date a month ago in MM/DD/YYYY?", "answer": "04/04/2004"}
+{"index": 257, "question": "The current local time is 3:02 pm of 5/4/2004. What is the date one year ago from today in MM/DD/YYYY?", "answer": "05/04/2003"}
+{"index": 258, "question": "The current local time is 3:02 pm of 5/4/2004. What is the date one week ago from today in MM/DD/YYYY?", "answer": "04/27/2004"}
+{"index": 259, "question": "The current local time is 3:02 pm of 5/4/2004. What is the date one week from today in MM/DD/YYYY?", "answer": "05/11/2004"}
+{"index": 260, "question": "The current local time is 3:02 pm of 5/4/2004. What is the date 24 hours later in MM/DD/YYYY?", "answer": "05/05/2004"}
+{"index": 261, "question": "Today is the second day of the third month of 1966. What is the date today in MM/DD/YYYY?", "answer": "03/02/1966"}
+{"index": 262, "question": "Today is the second day of the third month of 1966. What is the date tomorrow in MM/DD/YYYY?", "answer": "03/03/1966"}
+{"index": 263, "question": "Today is the second day of the third month of 1966. What is the date yesterday in MM/DD/YYYY?", "answer": "03/01/1966"}
+{"index": 264, "question": "Today is the second day of the third month of 1966. What is the date 10 days ago in MM/DD/YYYY?", "answer": "02/20/1966"}
+{"index": 265, "question": "Today is the second day of the third month of 1966. What is the date a month ago in MM/DD/YYYY?", "answer": "02/02/1966"}
+{"index": 266, "question": "Today is the second day of the third month of 1966. What is the date one year ago from today in MM/DD/YYYY?", "answer": "03/02/1965"}
+{"index": 267, "question": "Today is the second day of the third month of 1966. What is the date one week ago from today in MM/DD/YYYY?", "answer": "02/23/1966"}
+{"index": 268, "question": "Today is the second day of the third month of 1966. What is the date one week from today in MM/DD/YYYY?", "answer": "03/09/1966"}
+{"index": 269, "question": "Today is the second day of the third month of 1966. What is the date 24 hours later in MM/DD/YYYY?", "answer": "03/03/1966"}
+{"index": 270, "question": "Today is 9/7. Jane is watching NFL 2003. What is the date today in MM/DD/YYYY?", "answer": "09/07/2003"}
+{"index": 271, "question": "Today is 9/7. Jane is watching NFL 2003. What is the date tomorrow in MM/DD/YYYY?", "answer": "09/08/2003"}
+{"index": 272, "question": "Today is 9/7. Jane is watching NFL 2003. What is the date yesterday in MM/DD/YYYY?", "answer": "09/06/2003"}
+{"index": 273, "question": "Today is 9/7. Jane is watching NFL 2003. What is the date 10 days ago in MM/DD/YYYY?", "answer": "08/28/2003"}
+{"index": 274, "question": "Today is 9/7. Jane is watching NFL 2003. What is the date a month ago in MM/DD/YYYY?", "answer": "08/07/2003"}
+{"index": 275, "question": "Today is 9/7. Jane is watching NFL 2003. What is the date one year ago from today in MM/DD/YYYY?", "answer": "09/07/2002"}
+{"index": 276, "question": "Today is 9/7. Jane is watching NFL 2003. What is the date one week ago from today in MM/DD/YYYY?", "answer": "08/31/2003"}
+{"index": 277, "question": "Today is 9/7. Jane is watching NFL 2003. What is the date one week from today in MM/DD/YYYY?", "answer": "09/14/2003"}
+{"index": 278, "question": "Today is 9/7. Jane is watching NFL 2003. What is the date 24 hours later in MM/DD/YYYY?", "answer": "09/08/2003"}
+{"index": 279, "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date today in MM/DD/YYYY?", "answer": "01/01/1930"}
+{"index": 280, "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date tomorrow in MM/DD/YYYY?", "answer": "01/02/1930"}
+{"index": 281, "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date yesterday in MM/DD/YYYY?", "answer": "12/31/1929"}
+{"index": 282, "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date 10 days ago in MM/DD/YYYY?", "answer": "12/22/1929"}
+{"index": 283, "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date a month ago in MM/DD/YYYY?", "answer": "12/01/1929"}
+{"index": 284, "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date one year ago from today in MM/DD/YYYY?", "answer": "01/01/1929"}
+{"index": 285, "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date one week ago from today in MM/DD/YYYY?", "answer": "12/25/1929"}
+{"index": 286, "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date one week from today in MM/DD/YYYY?", "answer": "01/08/1930"}
+{"index": 287, "question": "Yesterday was 12/31/1929. Today could not be 12/32/1929 because December has only 31 days. What is the date 24 hours later in MM/DD/YYYY?", "answer": "01/02/1930"}
+{"index": 288, "question": "The day before yesterday was 11/23/1933. What is the date today in MM/DD/YYYY?", "answer": "11/25/1933"}
+{"index": 289, "question": "The day before yesterday was 11/23/1933. What is the date tomorrow in MM/DD/YYYY?", "answer": "11/26/1933"}
+{"index": 290, "question": "The day before yesterday was 11/23/1933. What is the date yesterday in MM/DD/YYYY?", "answer": "11/24/1933"}
+{"index": 291, "question": "The day before yesterday was 11/23/1933. What is the date 10 days ago in MM/DD/YYYY?", "answer": "11/15/1933"}
+{"index": 292, "question": "The day before yesterday was 11/23/1933. What is the date a month ago in MM/DD/YYYY?", "answer": "10/25/1933"}
+{"index": 293, "question": "The day before yesterday was 11/23/1933. What is the date one year ago from today in MM/DD/YYYY?", "answer": "11/25/1932"}
+{"index": 294, "question": "The day before yesterday was 11/23/1933. What is the date one week ago from today in MM/DD/YYYY?", "answer": "11/18/1933"}
+{"index": 295, "question": "The day before yesterday was 11/23/1933. What is the date one week from today in MM/DD/YYYY?", "answer": "12/02/1933"}
+{"index": 296, "question": "The day before yesterday was 11/23/1933. What is the date 24 hours later in MM/DD/YYYY?", "answer": "11/26/1933"}
+{"index": 297, "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date today in MM/DD/YYYY?", "answer": "11/22/2002"}
+{"index": 298, "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date tomorrow in MM/DD/YYYY?", "answer": "11/23/2002"}
+{"index": 299, "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date yesterday in MM/DD/YYYY?", "answer": "11/21/2002"}
+{"index": 300, "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date 10 days ago in MM/DD/YYYY?", "answer": "11/12/2002"}
+{"index": 301, "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date a month ago in MM/DD/YYYY?", "answer": "10/22/2002"}
+{"index": 302, "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one year ago from today in MM/DD/YYYY?", "answer": "11/22/2001"}
+{"index": 303, "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one week ago from today in MM/DD/YYYY?", "answer": "11/15/2002"}
+{"index": 304, "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date one week from today in MM/DD/YYYY?", "answer": "11/29/2002"}
+{"index": 305, "question": "In the US, Thanksgiving is on the fourth Thursday of November. Today is the US Thanksgiving of 2001. What is the date 24 hours later in MM/DD/YYYY?", "answer": "11/23/2002"}
+{"index": 306, "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date today in MM/DD/YYYY?", "answer": "10/15/1924"}
+{"index": 307, "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date tomorrow in MM/DD/YYYY?", "answer": "10/16/1924"}
+{"index": 308, "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date yesterday in MM/DD/YYYY?", "answer": "10/14/1924"}
+{"index": 309, "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date 10 days ago in MM/DD/YYYY?", "answer": "10/05/1924"}
+{"index": 310, "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date a month ago in MM/DD/YYYY?", "answer": "09/15/1924"}
+{"index": 311, "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one year ago from today in MM/DD/YYYY?", "answer": "10/15/1923"}
+{"index": 312, "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week ago from today in MM/DD/YYYY?", "answer": "10/08/1924"}
+{"index": 313, "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date one week from today in MM/DD/YYYY?", "answer": "10/22/1924"}
+{"index": 314, "question": "Today's meeting is rescheduled to 11 am tomorrow, 10/16/1924. What is the date 24 hours later in MM/DD/YYYY?", "answer": "10/16/1924"}
+{"index": 315, "question": "Jane is celebrating the last day of Jan 2012. What is the date today in MM/DD/YYYY?", "answer": "01/31/2012"}
+{"index": 316, "question": "Jane is celebrating the last day of Jan 2012. What is the date tomorrow in MM/DD/YYYY?", "answer": "02/01/2012"}
+{"index": 317, "question": "Jane is celebrating the last day of Jan 2012. What is the date yesterday in MM/DD/YYYY?", "answer": "01/30/2012"}
+{"index": 318, "question": "Jane is celebrating the last day of Jan 2012. What is the date 10 days ago in MM/DD/YYYY?", "answer": "01/21/2012"}
+{"index": 319, "question": "Jane is celebrating the last day of Jan 2012. What is the date a month ago in MM/DD/YYYY?", "answer": "12/31/2011"}
+{"index": 320, "question": "Jane is celebrating the last day of Jan 2012. What is the date one year ago from today in MM/DD/YYYY?", "answer": "01/31/2011"}
+{"index": 321, "question": "Jane is celebrating the last day of Jan 2012. What is the date one week ago from today in MM/DD/YYYY?", "answer": "01/24/2012"}
+{"index": 322, "question": "Jane is celebrating the last day of Jan 2012. What is the date one week from today in MM/DD/YYYY?", "answer": "02/06/2012"}
+{"index": 323, "question": "Jane is celebrating the last day of Jan 2012. What is the date 24 hours later in MM/DD/YYYY?", "answer": "02/01/2012"}
+{"index": 324, "question": "It was Sept. 1st, 2021 a week ago. What is the date today in MM/DD/YYYY?", "answer": "09/08/2021"}
+{"index": 325, "question": "It was Sept. 1st, 2021 a week ago. What is the date tomorrow in MM/DD/YYYY?", "answer": "09/09/2021"}
+{"index": 326, "question": "It was Sept. 1st, 2021 a week ago. What is the date yesterday in MM/DD/YYYY?", "answer": "09/07/2021"}
+{"index": 327, "question": "It was Sept. 1st, 2021 a week ago. What is the date 10 days ago in MM/DD/YYYY?", "answer": "08/29/2021"}
+{"index": 328, "question": "It was Sept. 1st, 2021 a week ago. What is the date a month ago in MM/DD/YYYY?", "answer": "08/08/2021"}
+{"index": 329, "question": "It was Sept. 1st, 2021 a week ago. What is the date one year ago from today in MM/DD/YYYY?", "answer": "09/08/2020"}
+{"index": 330, "question": "It was Sept. 1st, 2021 a week ago. What is the date one week ago from today in MM/DD/YYYY?", "answer": "09/01/2021"}
+{"index": 331, "question": "It was Sept. 1st, 2021 a week ago. What is the date one week from today in MM/DD/YYYY?", "answer": "09/15/2021"}
+{"index": 332, "question": "It was Sept. 1st, 2021 a week ago. What is the date 24 hours later in MM/DD/YYYY?", "answer": "09/09/2021"}
+{"index": 333, "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date today in MM/DD/YYYY?", "answer": "01/02/1961"}
+{"index": 334, "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date tomorrow in MM/DD/YYYY?", "answer": "01/03/1961"}
+{"index": 335, "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date yesterday in MM/DD/YYYY?", "answer": "01/01/1961"}
+{"index": 336, "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date 10 days ago in MM/DD/YYYY?", "answer": "12/23/1960"}
+{"index": 337, "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date a month ago in MM/DD/YYYY?", "answer": "12/02/1960"}
+{"index": 338, "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one year ago from today in MM/DD/YYYY?", "answer": "01/02/1960"}
+{"index": 339, "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one week ago from today in MM/DD/YYYY?", "answer": "12/26/1960"}
+{"index": 340, "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date one week from today in MM/DD/YYYY?", "answer": "01/09/1961"}
+{"index": 341, "question": "Jane and John married on Jan 2, 1958. It is their 5-year anniversary today. What is the date 24 hours later in MM/DD/YYYY?", "answer": "01/03/1961"}
+{"index": 342, "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date today in MM/DD/YYYY?", "answer": "06/18/2017"}
+{"index": 343, "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date tomorrow in MM/DD/YYYY?", "answer": "06/19/2017"}
+{"index": 344, "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date yesterday in MM/DD/YYYY?", "answer": "06/17/2017"}
+{"index": 345, "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 10 days ago in MM/DD/YYYY?", "answer": "06/08/2017"}
+{"index": 346, "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date a month ago in MM/DD/YYYY?", "answer": "05/18/2017"}
+{"index": 347, "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one year ago from today in MM/DD/YYYY?", "answer": "06/18/2016"}
+{"index": 348, "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one week ago from today in MM/DD/YYYY?", "answer": "06/11/2017"}
+{"index": 349, "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date one week from today in MM/DD/YYYY?", "answer": "06/25/2017"}
+{"index": 350, "question": "On May 9th, 2017 Jane bought 40 eggs. She ate one per day. Today she ran out of eggs. What is the date 24 hours later in MM/DD/YYYY?", "answer": "06/19/2017"}
+{"index": 351, "question": "Today is the last day of the first quarter of 2008. What is the date today in MM/DD/YYYY?", "answer": "03/31/2008"}
+{"index": 352, "question": "Today is the last day of the first quarter of 2008. What is the date tomorrow in MM/DD/YYYY?", "answer": "04/01/2008"}
+{"index": 353, "question": "Today is the last day of the first quarter of 2008. What is the date yesterday in MM/DD/YYYY?", "answer": "03/30/2008"}
+{"index": 354, "question": "Today is the last day of the first quarter of 2008. What is the date 10 days ago in MM/DD/YYYY?", "answer": "03/21/2008"}
+{"index": 355, "question": "Today is the last day of the first quarter of 2008. What is the date a month ago in MM/DD/YYYY?", "answer": "02/29/2008"}
+{"index": 356, "question": "Today is the last day of the first quarter of 2008. What is the date one year ago from today in MM/DD/YYYY?", "answer": "03/31/2007"}
+{"index": 357, "question": "Today is the last day of the first quarter of 2008. What is the date one week ago from today in MM/DD/YYYY?", "answer": "03/24/2008"}
+{"index": 358, "question": "Today is the last day of the first quarter of 2008. What is the date one week from today in MM/DD/YYYY?", "answer": "04/07/2008"}
+{"index": 359, "question": "Today is the last day of the first quarter of 2008. What is the date 24 hours later in MM/DD/YYYY?", "answer": "04/01/2008"}
+{"index": 360, "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date today in MM/DD/YYYY?", "answer": "01/07/2019"}
+{"index": 361, "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date tomorrow in MM/DD/YYYY?", "answer": "01/08/2019"}
+{"index": 362, "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date yesterday in MM/DD/YYYY?", "answer": "01/06/2019"}
+{"index": 363, "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date 10 days ago in MM/DD/YYYY?", "answer": "12/28/2018"}
+{"index": 364, "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date a month ago in MM/DD/YYYY?", "answer": "12/07/2018"}
+{"index": 365, "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one year ago from today in MM/DD/YYYY?", "answer": "01/07/2018"}
+{"index": 366, "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one week ago from today in MM/DD/YYYY?", "answer": "12/31/2018"}
+{"index": 367, "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date one week from today in MM/DD/YYYY?", "answer": "01/14/2019"}
+{"index": 368, "question": "The first day of 2019 is a Tuesday, and today is the first Monday of 2019. What is the date 24 hours later in MM/DD/YYYY?", "answer": "01/08/2019"}
