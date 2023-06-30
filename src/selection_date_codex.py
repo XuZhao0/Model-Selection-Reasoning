@@ -281,7 +281,7 @@ if __name__ == '__main__':
     parser.add_argument('--pal_temperature', type=float, default=0.)
     parser.add_argument('--output_dir', type=str, default='../output/')
     parser.add_argument(
-        '--key', type=str, default='sk-')
+        '--key', type=str, default='sk-', required=True)
 
     args = parser.parse_args()
 

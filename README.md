@@ -1,41 +1,50 @@
 # Automatic Model Selection with Large Language Models for Reasoning
 
-This repository contains code, prompts and data for the paper: [Automatic Model Selection with Large Language Models for Reasoning](https://arxiv.org/pdf/2305.14333.pdf).
+![Automatic selection model](selection-model.png)
 
-<div align="center">
-<img src="selection-model.png" alt="Automatic selection model" align=center />
-</div>
+This repository contains code, prompts and dataset for the paper: [Automatic Model Selection with Large Language Models for Reasoning](https://arxiv.org/pdf/2305.14333.pdf). We propose to perform model selection to combine two distinct methods, CoT and PAL. The proposed algorithm is illusrated in the above figure.
 
+## News
+
+* 🔥 We achieved the new SOTA results on GSM8K, with accuracy of 96.8% using GPT-4 and Self-Concsistency (K=15).
+* 📣 We released the code and data.
 
 ## Setup
 
-You need to firstly have an OpenAI API Key. As OpenAI has discountinued public access to Codex, you can apply for the [research access](https://openai.com/form/researcher-access-program) to Codex (code-davinci-002). You can also use other backbones such as ChatGPT and GPT-4.
+To beigin with, you need to have an OpenAI [API Key](https://platform.openai.com/account/api-keys). As OpenAI has discountinued public access to Codex, you can apply for [research access](https://openai.com/form/researcher-access-program) to Codex (code-davinci-002). Alternatively, you may opt to use other backbones like ChatGPT and GPT-4.
 
-Package requirement: ``pip install openai``
+**Dataset**: Our experiments use seven arithmetic datasets and one date understanding dataset, all of which are located in the `dataset` folder. You may also download these datasets from their respective online sources and format them accordingly.
 
-## Dataset
-
-7 arithmatic datasets and 1 date understanding dataset used in our experiments are in the folder ``dataset``. You can also download these datasets online and convert them into the corresponding format.
+**Package requirement:** ``pip install openai``
 
 ## Running
 
-Run experiments via ``sh scripts/{codex chatgpt gpt4}/run_{dataset}.sh`` for greedy decoding. Run experiments via ``sh scripts/{codex chatgpt gpt4}/run_gsm8k_sc.sh`` for self-consistency.
+You can run the code using the following command. We provide an example here that conducts experiments on the arithmetic dataset.
 
-- ``-sc_num``: It represents sampled paths. 1 indicates greedy decoding, while others indicate self-consistency paths.
+```
+python src/selection_math.py --start [start index] --end [end index] --dataset [dataset name] --backbone [ChatGPT or GPT-4] --cot_temperature [0 for greedy decoding, 0.5 for SC] --pal_temperature [0 for greedy decoding, 0.8 for SC] --sc_num [1 for greedy decoding. Others indicate SC samples.] --output_dir [output dir name] --key [OpenAI API Key]
+```
 
-Before running, please define EXEHOME, APIKEY accordingly in the script.
+Alternatively, you may utilize the script in the `scripts` directory:
 
-**Note**: OpenAI has [rate limitation]() for free trail users, which will affect the running time. You can update the account with payment methods.
+* For greedy decoding: ``sh scripts/{codex chatgpt gpt4}/run_{dataset}.sh``
+* For self-consistency: ``sh scripts/{codex chatgpt gpt4}/run_gsm8k_sc.sh``
+
+**Note**: Please ensure that you define `EXEHOME` and `APIKEY` in the script before execution.
+
+OpenAI has [rate limits](https://platform.openai.com/docs/guides/rate-limits) for free trail users, which will affect the execution time. To circumvent this, you can upgrade your account with payment methods.
 
 ## Evaluating
 
-After running experiments, you can use ``sh evaluate_{math date}.sh`` to evaluate the results.
+After running experiments, you can use the following command to evaluate the results:
 
-Before running, please define INPUTPATH in the script.
+``sh evaluate_{math date}.sh``
 
-## Question
+Please ensure that `INPUTPATH` is defined in the script prior to execution.
 
-Thanks for your attention! Feel free to contact xu.zhao@u.nus.edu if you have any questions.
+## Inquiries
+
+Thank you for your interest! Should you have any questions, please reach out to [xu.zhao@u.nus.edu](mailto:xu.zhao@u.nus.edu).
 
 ## Citation
 
